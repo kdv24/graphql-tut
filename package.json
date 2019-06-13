@@ -1,0 +1,27 @@
+{
+  "name": "graphql-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdv24/graphql-tut.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Kelly de Vries <kdv@me.com> (https://www.twyste.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdv24/graphql-tut/issues"
+  },
+  "homepage": "https://github.com/kdv24/graphql-tut#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.3.1"
+  }
+}
